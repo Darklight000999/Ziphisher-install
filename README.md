@@ -2,7 +2,7 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src=".">
+  <img src=".https://github.com/Darklight000999/Ziphisher-install/blob/3e55c21a0593ebb1bd06d2b4fb989f3d615d3a02/20250730_110855.png">
 </p>
 
 ![Banner](https://github.com/Darklight000999/Ziphisher-install/blob/main/IMG_20250730_105430.png)
@@ -141,3 +141,5 @@ $ zphisher
 
 > All the dependencies will be installed automatically when you run **Zphisher** for the first time.
 </details>
+
+![Banner](https://github.com/Darklight000999/Ziphisher-install/blob/3e55c21a0593ebb1bd06d2b4fb989f3d615d3a02/20250730_110855.png)
