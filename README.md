@@ -2,8 +2,10 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src=".github/misc/logo.png">
+  <img src=".">
 </p>
+
+![Banner](https://github.com/Darklight000999/Ziphisher-install/blob/main/IMG_20250730_105430.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
